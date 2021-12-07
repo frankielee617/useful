@@ -8,6 +8,6 @@
 
 ## Database
 1. https://tray2.se
-
+1. https://www.quest.com/products/toad-edge/
 ## Laravel TALL Stack
 1. https://talltips.novate.co.uk
